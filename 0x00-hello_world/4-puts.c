@@ -2,10 +2,10 @@
 
 /**
   *
-  *main - Print c
+  * main - Print text
   *
   *
-  *Return: Always 0 (Confirm)
+  * Return: Always 0 (Confirm)
   */
 int main(viod)
 {
