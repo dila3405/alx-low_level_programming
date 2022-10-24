@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - function that takes a pointer and update the value it points
+ * main - takes a pointer and update the value it points
  * @n: the int to be checked
- * written by Mdila
+ * Written by Mdila
  * Return: 0 (success)
  */
 
