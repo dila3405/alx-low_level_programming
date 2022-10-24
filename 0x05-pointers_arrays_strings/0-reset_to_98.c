@@ -1,15 +1,13 @@
 #include "main.h"
-
 /**
- * main - takes a pointer and update the value it points
- * @n: the int to be checked
- * Written by Mdila
- * Return: 0 (success)
+ * reset_to_98 - takes a pointer and update the value it points
+ * @n: int to be checked
+ * Written by M/dila
+ * Return: 0 is success
  */
-
 int main(void)
 
-	void reset to 98(int *n)
+void reset_to_98(int *n)
 {
-	*n = 98
+	*n = 98;
 }
