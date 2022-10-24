@@ -1,11 +1,10 @@
 #include "main.h"
 /**
- * reset_to_98 - takes a pointer and update the value it points
- * @n: int to be checked
- * Written by M/dila
+ * reset_to_98 - takes the pointer and updates the value
+ * @n: int to check
+ *
  * Return: 0 is success
  */
-int main(void)
 
 void reset_to_98(int *n)
 {
